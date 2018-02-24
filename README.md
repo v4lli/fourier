@@ -10,11 +10,11 @@ Transformation_.
 DTMF tones, the distinct sounds associated with a certain number
 on most telephone keyboards can be identified from a continous audio
 stream using the Fourier Transformation.
-[https://github.com/v4lli/fourier/blob/master/dtmf.ipynb](➡️ Notebook)
+[➡️ Notebook](https://github.com/v4lli/fourier/blob/master/dtmf.ipynb)
 
 ## Lossy JPEG compression*
 
-[https://github.com/v4lli/fourier/blob/master/ghettoJPEG.ipynb](➡️ Notebook)
+[➡️ Notebook](https://github.com/v4lli/fourier/blob/master/ghettoJPEG.ipynb)
 
 * Not actually DFT, but the _discrete cosine transformation_, which
 is very similar.
